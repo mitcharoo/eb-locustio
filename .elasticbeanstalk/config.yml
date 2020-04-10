@@ -1,9 +1,9 @@
 branch-defaults:
   master:
-    environment: eb-locustio2-dev
+    environment: locustio-dev
     group_suffix: null
 global:
-  application_name: eb-locustio2
+  application_name: locustio
   branch: null
   default_ec2_keyname: DINNEROUT
   default_platform: Java 8
